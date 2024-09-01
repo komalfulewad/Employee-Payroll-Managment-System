@@ -1,16 +1,24 @@
-## Hi there 👋
+# EMPLOYEE-PAYROLL-MANAGMENT-SYSTEM-PROJECT
 
-<!--
-**komalfulewad/komalfulewad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Employee Payroll Management System 
+## Introduction
+          
+The Employee Payroll Management System is a software solution designed to manage the payroll process within an organization efficiently. 
+This system enables the company to calculate employees salaries, manage their payment records, track working hours, deductions, and bonuses, and generate payslips.
+## Features
+1.Employee Management: Add, edit, and delete employee details.
 
-Here are some ideas to get you started:
+2.Salary Calculation: Automatic calculation of gross and net salary based on hours worked, absent days,medical,convence and PF.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3.Leave Management: Track employee leaves and adjust salary accordingly.
+
+4.Payment Processing: Generate payslips and process payments through the system.
+
+5.User Interface: Intuitive dashboard for easy navigation and quick access to key features.
+# Technologies Used
+Phython
+
+MySQL
+
+Twinkter
+
