@@ -20,5 +20,7 @@ Phython
 
 MySQL
 
-Twinkter
+Tkinter
+
+![Screenshot (2)](https://github.com/user-attachments/assets/b6a16927-e47e-4af1-8f3f-200c6390820f)
 
